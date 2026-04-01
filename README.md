@@ -1,4 +1,4 @@
-# J Bank — Desafio Front-End Onda Finance
+# JBank — Desafio Front-End Onda Finance
 
 Aplicação web que simula um app bancário simples, com paleta alinhada à identidade visual da [Onda Finance](https://ondafinance.com/pt-br/): branco `#fff`, verde `#24e478` e preto `#000`.
 

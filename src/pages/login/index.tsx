@@ -64,7 +64,7 @@ export function LoginPage() {
           J
         </div>
         <div className="text-left">
-          <h1 className="text-xl font-semibold tracking-tight text-foreground">J Bank</h1>
+          <h1 className="text-xl font-semibold tracking-tight text-foreground">JBank</h1>
           <p className="text-sm text-muted-foreground">
             Converta, pague e transfira globalmente em cripto e fiat.
           </p>

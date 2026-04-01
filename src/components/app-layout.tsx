@@ -1,9 +1,9 @@
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
+import { ROUTES } from '@/routes/paths'
 import { useAuthStore } from '@/stores/auth-store'
 import { ArrowLeftRight, LayoutDashboard, LogOut } from 'lucide-react'
 import { Link, Outlet, useLocation } from 'react-router-dom'
-import { ROUTES } from '@/routes/paths'
 
 const nav = [
   { to: ROUTES.dashboard, label: 'Início', icon: LayoutDashboard },
@@ -27,7 +27,7 @@ export function AppLayout() {
               J
             </div>
             <div className="text-left">
-              <p className="text-sm font-semibold tracking-tight">J Bank</p>
+              <p className="text-sm font-semibold tracking-tight">JBank</p>
               <p className="text-xs text-muted-foreground">Facilitando suas transações</p>
             </div>
           </div>
